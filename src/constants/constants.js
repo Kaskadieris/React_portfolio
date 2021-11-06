@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'Project 1',
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer imperdiet ligula felis. Nam urna mi, aliquam ac diam consequat, ultrices porta ex. Donec tristique velit ac porttitor porta. Sed eleifend.",
+    title: 'FreeCodeCamp.org- Responsive Web design',
+    description: 'All 5 of freecodecamp.org "Relative web design" course projets. Finished course in order to refresh all  basic HTML5/CSS3 skills and pass my  freecodecamp.org "Responsive web design" certification',
       image: '/images/1.jpg',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+      tags: ['HTML5', 'CSS3'],
+    source: 'https://github.com/Kaskadieris/Portfolio_webpage',
+    visit: 'https://mystifying-jang-b387e8.netlify.app/',
     id: 0,
   },
   {
