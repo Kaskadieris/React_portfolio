@@ -44,11 +44,13 @@ export const TimeLineData = [
   { year: 2019, text: 'Got my Bachelors degree in computer science', },
   { year: 2020, text: 'Continue working as Programmer/ETL Developer', },
   { year: 2021, text: 'Started to improve and develope my skill more into web development area', },
+  { year: 2021, text: 'FreeCodeCamp.org "Responsive web design" certification', },
 ];
 
 export const AcomplishmentsData = [
   { text: 'e-Guardion and ECDL Computer skills sertificate BDA'},
   { text: 'JAVA SE 8 Fundamentals Diploma from Oracle University', },
   { text: 'Java SE 8 Fundamentals Ed 1 Sertificate', },
-  { text: 'Code Institutes 5 day coding challenge certificate', }
+  { text: 'Code Institutes 5 day coding challenge certificate', },
+  { text: 'FreeCodeCamp.org "Responsive web design" certification',}
 ];
