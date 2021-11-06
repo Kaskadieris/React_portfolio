@@ -1,7 +1,7 @@
 export const projects = [
   {
-    title: 'FreeCodeCamp.org- Responsive Web design',
-    description: 'All 5 of freecodecamp.org "Relative web design" course projets. Finished course in order to refresh all  basic HTML5/CSS3 skills and pass my  freecodecamp.org "Responsive web design" certification',
+    title: 'FreeCodeCamp.org- Responsive Web Design',
+    description: 'All 5 of freecodecamp.org "Responsive Web Design" course projets. Finished course in order to refresh all  basic HTML5/CSS3 skills and pass my  freecodecamp.org "Responsive Web Design" certification',
       image: '/images/1.jpg',
       tags: ['HTML5', 'CSS3'],
     source: 'https://github.com/Kaskadieris/Portfolio_webpage',
@@ -44,7 +44,7 @@ export const TimeLineData = [
   { year: 2019, text: 'Got my Bachelors degree in computer science', },
   { year: 2020, text: 'Continue working as Programmer/ETL Developer', },
   { year: 2021, text: 'Started to improve and develope my skill more into web development area', },
-  { year: 2021, text: 'FreeCodeCamp.org "Responsive web design" certification', },
+  { year: 2021, text: 'FreeCodeCamp.org "Responsive Web Design" certification', },
 ];
 
 export const AcomplishmentsData = [
@@ -52,5 +52,5 @@ export const AcomplishmentsData = [
   { text: 'JAVA SE 8 Fundamentals Diploma from Oracle University', },
   { text: 'Java SE 8 Fundamentals Ed 1 Sertificate', },
   { text: 'Code Institutes 5 day coding challenge certificate', },
-  { text: 'FreeCodeCamp.org "Responsive web design" certification',}
+  { text: 'FreeCodeCamp.org "Responsive Web Design" certification',}
 ];
