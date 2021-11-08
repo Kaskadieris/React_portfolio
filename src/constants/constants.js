@@ -8,6 +8,7 @@ export const projects = [
     visit: 'https://mystifying-jang-b387e8.netlify.app/',
     id: 0,
   },
+  /*
   {
     title: 'Project 2',
     description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer imperdiet ligula felis. Nam urna mi, aliquam ac diam consequat, ultrices porta ex. Donec tristique velit ac porttitor porta. Sed eleifend.",
@@ -35,6 +36,7 @@ export const projects = [
     visit: 'https://google.com',
     id: 3,
   },
+  */
 ];
 
 export const TimeLineData = [
