@@ -53,10 +53,10 @@ export const TimeLineData = [
 ];
 
 export const AcomplishmentsData = [
-  { text: 'e-Guardion and ECDL Computer skills sertificate BDA'},
-  { text: 'JAVA SE 8 Fundamentals Diploma from Oracle University', },
-  { text: 'Java SE 8 Fundamentals Ed 1 Sertificate', },
-  { text: 'Code Institutes 5 day coding challenge certificate', },
-  { text: 'FreeCodeCamp.org "Responsive Web Design" certification',}
-  { text: 'FreeCodeCamp.org "JavaScript Algorithms and Data Structures" certification',}
+  { text: 'e-Guardion and ECDL Computer skills sertificate BDA',},
+  { text: 'JAVA SE 8 Fundamentals Diploma from Oracle University',},
+  { text: 'Java SE 8 Fundamentals Ed 1 Sertificate',},
+  { text: 'Code Institutes 5 day coding challenge certificate',},
+  { text: 'FreeCodeCamp.org "Responsive Web Design" certification',},
+  { text: 'FreeCodeCamp.org "JavaScript Algorithms and Data Structures" certification',},
 ];
