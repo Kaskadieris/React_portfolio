@@ -8,16 +8,18 @@ export const projects = [
     visit: 'https://mystifying-jang-b387e8.netlify.app/',
     id: 0,
   },
-  /*
+ 
   {
-    title: 'Project 2',
-    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer imperdiet ligula felis. Nam urna mi, aliquam ac diam consequat, ultrices porta ex. Donec tristique velit ac porttitor porta. Sed eleifend.",
+    title: 'FreeCodeCamp.org- JavaScript Algorithms and Data Structures',
+    description:'All 5 of freecodecamp.org "JavaScript Algorithms and Data Structures" course projets,created in graphical interface. Finished course in order to refresh all  basic JavaScript skills and pass my  freecodecamp.org "JavaScript Algorithms and Data Structures" certification',
     image: '/images/2.jpg',
-    tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    tags: ['HTML5', 'CSS3', 'JavaScript'],
+    source: 'https://github.com/Kaskadieris/Javascript_cert',
+    visit: 'https://serene-sinoussi-16afa5.netlify.app/',
     id: 1,
   },
+
+   /*
   {
     title: 'Project 3',
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer imperdiet ligula felis. Nam urna mi, aliquam ac diam consequat, ultrices porta ex. Donec tristique velit ac porttitor porta. Sed eleifend.",
@@ -47,6 +49,7 @@ export const TimeLineData = [
   { year: 2020, text: 'Continue working as Programmer/ETL Developer', },
   { year: 2021, text: 'Started to improve and develope my skill more into web development area', },
   { year: 2021, text: 'FreeCodeCamp.org "Responsive Web Design" certification', },
+  { year: 2021, text: 'FreeCodeCamp.org "JavaScript Algorithms and Data Structures" certification', },
 ];
 
 export const AcomplishmentsData = [
@@ -55,4 +58,5 @@ export const AcomplishmentsData = [
   { text: 'Java SE 8 Fundamentals Ed 1 Sertificate', },
   { text: 'Code Institutes 5 day coding challenge certificate', },
   { text: 'FreeCodeCamp.org "Responsive Web Design" certification',}
+  { text: 'FreeCodeCamp.org "JavaScript Algorithms and Data Structures" certification',}
 ];
