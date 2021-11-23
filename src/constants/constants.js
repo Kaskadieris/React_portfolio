@@ -22,7 +22,7 @@ export const projects = [
    
   {
     title: 'Frontend practise-Ableton',
-    description: "Design from https://www.frontendpractice.com/project/ableton that I recreated to practise HTML and CSS3 concepts, that i learned from course.",
+    description: "Design from https://www.frontendpractice.com that I recreated to practise HTML and CSS3 concepts, that i learned from course.",
       image: '/images/3.jpg',
       tags: ['HTML5', 'CSS'],
     source: 'https://github.com/Kaskadieris/FrontedPractise-1',
