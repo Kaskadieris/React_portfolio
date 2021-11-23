@@ -19,16 +19,18 @@ export const projects = [
     id: 1,
   },
 
-   /*
+   
   {
-    title: 'Project 3',
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer imperdiet ligula felis. Nam urna mi, aliquam ac diam consequat, ultrices porta ex. Donec tristique velit ac porttitor porta. Sed eleifend.",
+    title: 'Frontend practise-Ableton',
+    description: "Design from https://www.frontendpractice.com/project/ableton that I recreated to practise HTML and CSS3 concepts, that i learned from course.",
       image: '/images/3.jpg',
-      tags: ['React', 'WebRTC'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+      tags: ['HTML5', 'CSS'],
+    source: 'https://github.com/Kaskadieris/FrontedPractise-1',
+    visit: 'https://angry-spence-f2ffd8.netlify.app/',
     id: 2,
   },
+
+  /*
   {
     title: 'Project 4',
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer imperdiet ligula felis. Nam urna mi, aliquam ac diam consequat, ultrices porta ex. Donec tristique velit ac porttitor porta. Sed eleifend.n",
