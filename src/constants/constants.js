@@ -42,6 +42,17 @@ export const projects = [
     visit: "https://thirsty-goodall-a5b2f4.netlify.app/",
     id: 3,
   },
+
+  {
+    title: "Markdown Previewer",
+    description:
+      "Displays formated HTML text from markdown input. Created using React,JavaScript,Bootstrap,SASS/CSS,HTML and markdown library",
+    image: "/images/5.jpg",
+    tags: ["React", "HTML5", "SASS/CSS", "Bootstrap", "JavaScript"],
+    source: "https://github.com/Kaskadieris/markdown_previewer",
+    visit: "https://vibrant-lamarr-743577.netlify.app/",
+    id: 4,
+  },
 ];
 
 export const TimeLineData = [
