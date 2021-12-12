@@ -29,8 +29,8 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Eperience with HTML5,CSS3,JavaScript,TypeScript,SASS, Bootstrap and
-            React.js
+            Eperience with HTML5, CSS3, JavaScript, TypeScript, SASS, Bootstrap
+            and React.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
